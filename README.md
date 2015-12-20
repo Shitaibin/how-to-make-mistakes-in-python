@@ -19,7 +19,7 @@ I found this Book in an email sent by Python Weekly. After I opened the [link][b
 
 # 最后 / Last
 
-毕竟英语及Python水平有限，若出现错误请包容及告知。
+毕竟本人英语及Python水平有限，若出现错误请包容及告知。
 
 
 
