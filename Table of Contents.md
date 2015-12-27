@@ -1,6 +1,6 @@
 # 目录
 
-[前言][content]
+[前言][contents]
 
 
 1. [安装][setup]
@@ -11,5 +11,5 @@
 
 
 
-[content]:./前言.md
-[setup]:./安装.md
+[contents]:./前言.md
+[setup]:./chapter/1.Setup.md
